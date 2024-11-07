@@ -3,8 +3,6 @@
 
 Prova Finale del corso di   **Algoritmi e Principi dell'Informatica**, corso di laurea in Ingegneria Informatica @Politecnico di Milano.
 
-Voto: 30/30.
-
 Specifiche e regole: [qui](https://github.com/robertomelfa/Prova-Finale-API-2022/tree/main/Documentation).
 
 Casi di test: [qui](https://github.com/robertomelfa/Prova-Finale-API-2022/tree/main/open_testcases).
@@ -15,8 +13,6 @@ Casi di test: [qui](https://github.com/robertomelfa/Prova-Finale-API-2022/tree/m
 [EN]
 
 Final project of   **Algorithmic Principles**, BSc in Computer Science and Engineering @Politecnico di Milano.
-
-Final Grade: 30/30.
 
 Project Requirements: [here](https://github.com/robertomelfa/Prova-Finale-API-2022/tree/main/Documentation).
 
